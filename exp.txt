@@ -1,0 +1,13 @@
+bert：69%
+bert_test: 82.2%(32_300)
+bert_aug_test: 84.5%(32_300)
+xlnet_test: 84.0%(50_32)
+xlnet_aug_test: 89.0%(50_32)
+graph: 69.0%
+total: 89.8%
+
+ssh -p 21009 root@210.16.188.74
+ezjePcAK
+
+ssh -p 21009 root@10.192.6.105
+ezjePcAK
